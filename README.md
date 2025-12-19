@@ -80,7 +80,7 @@ show ip arp | include <MAC>
 config.json
 {
   "start_switch": "192.168.147.2",
-  "target_mac": "000a.830b.b747"
+  "target_mac": "5014.db00.6d00"
 }
 ```
 start_switch — IP коммутатора, с которого начинается поиск
