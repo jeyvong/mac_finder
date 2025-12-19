@@ -79,7 +79,7 @@ show ip arp | include <MAC>
 ```text
 config.json
 {
-  "start_switch": "10.106.174.1",
+  "start_switch": "192.168.147.2",
   "target_mac": "000a.830b.b747"
 }
 ```
