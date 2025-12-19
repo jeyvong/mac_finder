@@ -99,8 +99,9 @@ cred.json
 Установите зависимости: pip install -r requirements.txt.
 Запустите скрипт: python main.py.
 Пример запуска:
-
+```text
 (venv) PS D:\...\mac_finder> python.exe main.py
+```
 будет запрошен пароль
 скрипт начнёт последовательную трассировку MAC
 
